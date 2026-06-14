@@ -1,6 +1,5 @@
 # Lumi — AI Voice Companion for Dementia & Alzheimer's Patients
 
-> AMD Developer Hackathon 2026 · Fine-Tuning Track · lablab.ai · HuggingFace Spaces · AMD MI300X
 
 ## What is Lumi?
 
